@@ -58,7 +58,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 
 ### 📞 Contact
 
-For questions or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue here.
+For questions or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/shruti-chauhan-35b082338/) or open an issue here.
 
 ---
 
