@@ -2,13 +2,13 @@
 
 ## Machine Learning Internship Project — Future Interns
 
----
+
 
 ### 📊 Project Overview
 
 This repository contains a comprehensive sales forecasting project completed as part of the Machine Learning Internship at Future Interns. The goal is to predict retail sales trends using historical data and time series forecasting techniques, and to present insights through an interactive Power BI dashboard.
 
----
+
 
 ### 🚀 What You Will Find Here
 
@@ -17,7 +17,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 - **Visualization:** Interactive Power BI dashboard displaying actual vs. forecasted sales, monthly trends, and filters by category and region.
 - **Business Insights:** Recommendations derived from data analysis to support sales strategy.
 
----
+
 
 ### 🛠 Tools & Technologies
 
@@ -26,7 +26,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 - Power BI Desktop
 - Excel (optional for preprocessing)
 
----
+
 
 ### 📁 Repository Structure
 
@@ -36,7 +36,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 /README.md # Project documentation
 
 
----
+
 
 ### 💡 How to Use This Repo
 
@@ -45,7 +45,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 3. Open the Power BI dashboard file to interact with sales trends and forecasts.
 4. Use the insights to understand sales seasonality and plan inventory or marketing.
 
----
+
 
 ### 🎯 Skills Demonstrated
 
@@ -54,7 +54,7 @@ This repository contains a comprehensive sales forecasting project completed as 
 - Data visualization and storytelling with Power BI  
 - Business analytics for retail sales  
 
----
+
 
 ### 📞 Contact
 
